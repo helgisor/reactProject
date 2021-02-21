@@ -130,7 +130,7 @@ const Stories = () => {
                 <a
                   className='projectIcon'
                   target='_blank'
-                  href='https://store-2b2c9.web.app/'
+                  href='https://smooth3-9862a.web.app/'
                 >
                   <FaGithubSquare size={40} />
                 </a>
@@ -171,7 +171,7 @@ const Stories = () => {
                 <a
                   className='projectIcon'
                   target='_blank'
-                  href='https://store-2b2c9.web.app/'
+                  href='https://dreamy-poincare-d40cb5.netlify.app/'
                 >
                   <FaGithubSquare size={40} />
                 </a>
